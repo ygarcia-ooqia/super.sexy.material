@@ -1,0 +1,19 @@
+{
+  "name": "super.sexy.material",
+  "version": "1.0.0",
+  "description": "ooqia materia.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygarcia-ooqia/super.sexy.material.git"
+  },
+  "author": "ooqia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygarcia-ooqia/super.sexy.material/issues"
+  },
+  "homepage": "https://github.com/ygarcia-ooqia/super.sexy.material#readme"
+}
