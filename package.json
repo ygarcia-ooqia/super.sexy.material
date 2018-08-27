@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/ygarcia-ooqia/super.sexy.material/issues"
   },
-  "homepage": "https://github.com/ygarcia-ooqia/super.sexy.material#readme"
+  "homepage": "https://github.com/ygarcia-ooqia/super.sexy.material#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "extract-loader": "^2.0.1",
+    "file-loader": "^2.0.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.3"
+  }
 }
